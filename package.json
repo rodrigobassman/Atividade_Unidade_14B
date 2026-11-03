@@ -1,0 +1,26 @@
+{
+  "name": "atividade_unidade_14b",
+  "version": "1.0.0",
+  "description": "Atividade Prática 2: Arquitetura E2E — POM, Fixture de Sessão e Data-Driven",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodrigobassman/Atividade_Unidade_14B.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/rodrigobassman/Atividade_Unidade_14B/issues"
+  },
+  "homepage": "https://github.com/rodrigobassman/Atividade_Unidade_14B#readme",
+  "dependencies": {
+    "json": "^11.0.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.64.1",
+    "@types/node": "^26.6.6"
+  }
+}
